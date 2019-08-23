@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="35px" viewBox="0 0 36 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.9551309%" id="linearGradient-1">
+            <stop stop-color="#3695E4" offset="0%"></stop>
+            <stop stop-color="#1B7ECA" offset="99.9551309%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#3695E4" offset="0%"></stop>
+            <stop stop-color="#1B7ECA" offset="99.9551309%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#3695E4" offset="0%"></stop>
+            <stop stop-color="#1B7ECA" offset="99.9551309%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#3695E4" offset="0%"></stop>
+            <stop stop-color="#1B7ECA" offset="99.9551309%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Atoms-/-Academy-V2" transform="translate(-49.000000, -14.000000)">
+            <g id="Group-3" transform="translate(50.000000, 15.000000)">
+                <path d="M30.8146332,19.3281418 C30.8791851,19.1509 30.9403546,18.9720328 30.9980637,18.7916182 C31.4409261,17.4071076 31.68,15.9314732 31.68,14.4 C31.68,6.4470996 25.2329004,-1.82964754e-13 17.28,-1.82964754e-13 C9.3270996,-1.82964754e-13 2.88,6.4470996 2.88,14.4 C2.88,15.9137288 3.11356591,17.3729054 3.54662487,18.7434569" id="Shape" stroke="url(#linearGradient-1)" stroke-width="1.152"></path>
+                <circle id="Oval" stroke="url(#linearGradient-2)" stroke-width="1.152" cx="17.28" cy="14.4" r="11.52"></circle>
+                <circle id="Oval" stroke="url(#linearGradient-2)" stroke-width="1.152" cx="17.28" cy="14.4" r="8.64"></circle>
+                <polyline id="Path" stroke="url(#linearGradient-3)" stroke-width="1.152" points="6.61587891 19.5649805 5.5067062e-14 25.70625 7.36523438 25.70625 7.36523438 32.90625 14.4254883 25.92"></polyline>
+                <polyline id="Path-Copy" stroke="url(#linearGradient-4)" stroke-width="1.152" transform="translate(26.645713, 26.737690) scale(-1, 1) translate(-26.645713, -26.737690) " points="25.8478418 20.16 19.3930664 26.1153809 26.7583008 26.1153809 26.7583008 33.3153809 33.8983594 26.1153809"></polyline>
+                <path d="M17.28,5.42917969 L17.28,3.28412109" id="Line-3" stroke="url(#linearGradient-2)" stroke-width="1.44"></path>
+                <path d="M17.28,25.221709 L17.28,23.76" id="Line-3-Copy-3" stroke="url(#linearGradient-2)" stroke-width="1.44"></path>
+                <path d="M27.36,15.5091797 L27.36,13.3641211" id="Line-3-Copy" stroke="url(#linearGradient-2)" stroke-width="1.44" transform="translate(27.360000, 14.400000) rotate(-90.000000) translate(-27.360000, -14.400000) "></path>
+                <path d="M7.2,15.5091797 L7.2,13.3641211" id="Line-3-Copy-2" stroke="url(#linearGradient-2)" stroke-width="1.44" transform="translate(7.200000, 14.400000) rotate(-90.000000) translate(-7.200000, -14.400000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
