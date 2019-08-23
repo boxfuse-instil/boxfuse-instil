@@ -1,0 +1,105 @@
+---
+layout: default
+title: Search Results
+permalink: /search/
+filter-type: "all"
+
+articles:
+  - title: Windows Update Causes Victor Client Connection Issue
+    date: 7th July 2019
+    text: Installation of some Windows Updates has been identified to cause an issue with Victor client (regardless of version) client communications.
+    product: VictorEdge
+    category: Support
+    
+  - title: How to enable/disable SNMP on NVR 4.8 or higher?
+    date: 20th December 2018
+    text: Installation of some Windows Updates has been identified to cause an issue with Victor client (regardless of version) client communications.
+    product: Victor Client
+    category: Documentation 
+  
+  - title: Important Announcement
+    date: 18th September 2018
+    text: The American Dynamics Technical Support Portal is making some changes to our Privacy Policy inline with the new GDPR regulations which will be effective...
+    product: Mobile Apps
+    category: Technical Bulletin
+
+  - title: How to enable/disable SNMP on NVR 4.8 or higher?
+    date: 20th December 2018
+    text: Installation of some Windows Updates has been identified to cause an issue with Victor client (regardless of version) client communications.
+    product: Illustra Cameras
+    category: Documentation 
+  
+  - title: Important Announcement
+    date: 18th September 2018
+    text: The American Dynamics Technical Support Portal is making some changes to our Privacy Policy inline with the new GDPR regulations which will be effective...
+    product: Victor Application Server
+    category: Technical Bulletin
+
+
+filters:
+  - section: Products
+    contents:
+      - title: VideoEdge NVR
+      - title: Victor Client
+      - title: Victor Application Server
+      - title: Illustra Cameras
+      - title: Victor Integrations
+      - title: Mobile Apps
+
+  - section: Support
+    contents:
+      - title: Knowledge Articles
+        icon: brain
+      - title: FAQs
+        icon: comments
+      - title: Solutions
+        icon: lightbulb
+
+  - section: Documentation
+    contents:
+      - title: Installation/Configuration
+        icon: tools
+      - title: User Guides
+        icon: user
+      - title: Quick Start Guides
+        icon: bolt
+      - title: Data Sheets
+        icon: table
+
+  - section: Other
+    contents:
+      - title: Release Notes
+        icon: clipboard-list-check
+      - title: Technical Advisory Bulletins
+        icon: exclamation-triangle
+---
+
+
+<section class="row my-5">
+  <!--  Results -->
+  <div class="col-lg-8 mb-5">
+    {%- include heading.html title="5 Results" icon="list" size="h3" border="border-bottom" sort="true" -%}
+    {%- include featured-article.html -%}
+  </div>
+
+  <!-- Filters -->
+  <div class="col offset-xl-1 d-none d-sm-block">
+    <div class="card inset-border-top">
+      <div class="card-body">
+        <div class="form-check form-check-inline float-right mr-0">
+          <label class="form-check-label font-size-sm">Select All
+            <input class="form-check-input ml-2 checkboxSelectAll" type="checkbox" value="checkedValue">
+          </label>
+        </div>
+        <h5 class="text-muted text-uppercase border-bottom pb-3">Filters</h5>
+        {%- for item in page.filters -%}
+          <h5 class="text-primary pt-4">
+            {{ item.section }}
+          </h5>
+        {%- include filters-all.html -%}
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+
+</section>

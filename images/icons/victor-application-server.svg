@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Icons / Feature / tyco-video-solutions</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="20.5176768%" y1="48.1427278%" x2="79.4823232%" y2="51.8612578%" id="linearGradient-1">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="48.3365969%" y1="-416%" x2="51.6634031%" y2="517%" id="linearGradient-2">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5176768%" y1="-176.67329%" x2="79.4823232%" y2="277.159714%" id="linearGradient-3">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5661077%" y1="-416%" x2="79.4338923%" y2="517%" id="linearGradient-4">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="27.6425362%" y1="-416%" x2="72.3574638%" y2="517%" id="linearGradient-5">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5176768%" y1="-200.523231%" x2="79.4823232%" y2="301.060834%" id="linearGradient-6">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5176768%" y1="-341.446493%" x2="79.4823232%" y2="442.286507%" id="linearGradient-7">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="43.0721916%" y1="-416%" x2="56.9278084%" y2="517%" id="linearGradient-8">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5176768%" y1="-416%" x2="79.4823232%" y2="517%" id="linearGradient-9">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.9343828%" y1="-416%" x2="79.0656172%" y2="517%" id="linearGradient-10">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5176768%" y1="49.2088727%" x2="79.4823232%" y2="50.792825%" id="linearGradient-11">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5176768%" y1="-66.7752509%" x2="79.4823232%" y2="167.025842%" id="linearGradient-12">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="20.5176768%" y1="-67.0514785%" x2="79.4823232%" y2="167.302662%" id="linearGradient-13">
+            <stop stop-color="#268AD5" offset="0%"></stop>
+            <stop stop-color="#3999E4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons-/-Feature-/-tyco-video-solutions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="tyco-video-solutions" transform="translate(11.000000, 10.000000)" stroke-width="2">
+            <path d="M8.51,55.43 L24.35,55.43" id="Path" stroke="url(#linearGradient-1)"></path>
+            <path d="M14.32,54.95 L14.32,50.74" id="Path" stroke="url(#linearGradient-2)"></path>
+            <path d="M18.49,54.95 L18.49,50.74" id="Path" stroke="url(#linearGradient-2)"></path>
+            <path d="M32.82,48.8 L32.82,29.35 C32.82,28.4000702 32.0499298,27.63 31.1,27.63 L1.72,27.63 C0.77007023,27.63 0,28.4000702 0,29.35 L0,48.8 C0,49.7499298 0.77007023,50.52 1.72,50.52 L31.08,50.52 C32.0299298,50.52 32.8,49.7499298 32.8,48.8 L32.8,48.8 L32.82,48.8 Z" id="Path" stroke="url(#linearGradient-3)"></path>
+            <path d="M16.39,45.09 L16.39,45.09 C13.0327749,45.0789971 10.3154856,42.3572387 10.31,39 L10.31,39 C10.31,35.6421087 13.0321087,32.92 16.39,32.92 L16.39,32.92 C19.7478913,32.92 22.47,35.6421087 22.47,39 L22.47,39 C22.4645144,42.3572387 19.7472251,45.0789971 16.39,45.09 Z" id="Path" stroke="url(#linearGradient-4)"></path>
+            <polygon id="Path" stroke="url(#linearGradient-5)" points="18.91 39.01 15 36.75 15 41.24"></polygon>
+            <polyline id="Path" stroke="url(#linearGradient-6)" points="45.36 11.94 45.36 0 11.7 0 11.7 24.68"></polyline>
+            <polyline id="Path" stroke="url(#linearGradient-7)" points="37.66 12.63 37.66 8.15 20.29 8.15 20.29 24.07"></polyline>
+            <polyline id="Path" stroke="url(#linearGradient-8)" points="31.89 53.24 31.89 55.43 51.12 55.43 51.12 15.76 31.89 15.76 31.89 24.74"></polyline>
+            <rect id="Rectangle" stroke="url(#linearGradient-9)" x="43.96" y="21.07" width="2.8" height="2.8"></rect>
+            <rect id="Rectangle" stroke="url(#linearGradient-9)" x="36.61" y="21.07" width="2.8" height="2.8"></rect>
+            <rect id="Rectangle" stroke="url(#linearGradient-10)" x="43.87" y="27.71" width="2.8" height="2.82"></rect>
+            <rect id="Rectangle" stroke="url(#linearGradient-10)" x="36.52" y="27.71" width="2.8" height="2.82"></rect>
+            <rect id="Rectangle" stroke="url(#linearGradient-9)" x="43.79" y="34.38" width="2.8" height="2.8"></rect>
+            <rect id="Rectangle" stroke="url(#linearGradient-9)" x="36.43" y="34.38" width="2.8" height="2.8"></rect>
+            <rect id="Rectangle" stroke="url(#linearGradient-9)" x="43.7" y="41.03" width="2.8" height="2.8"></rect>
+            <polygon id="Path" stroke="url(#linearGradient-9)" points="36.34 43.84 39.15 43.84 39.15 41.03 36.38 41.03"></polygon>
+            <rect id="Rectangle" stroke="url(#linearGradient-9)" x="43.61" y="47.69" width="2.8" height="2.8"></rect>
+            <rect id="Rectangle" stroke="url(#linearGradient-9)" x="36.26" y="47.69" width="2.8" height="2.8"></rect>
+            <path d="M29.37,55.43 L53.64,55.43" id="Path" stroke="url(#linearGradient-11)"></path>
+            <polyline id="Path" stroke="url(#linearGradient-12)" points="24.29 20.59 20.06 24.83 15.82 20.59"></polyline>
+            <polyline id="Path" stroke="url(#linearGradient-13)" points="49.56 8.62 45.33 12.86 41.1 8.62"></polyline>
+        </g>
+    </g>
+</svg>

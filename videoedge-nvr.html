@@ -1,0 +1,94 @@
+---
+layout: default
+title: VideoEdge NVR
+permalink: /videoedge-nvr/
+
+product: VideoEdge NVR
+
+cards:
+  - title: Documentation
+    description: Installation, Configuration, Quick Start and User Guides.
+    url: documentation
+
+  - title: Support
+    description: Knowledge Articles, Frequently asked questions and Solutions.
+
+  - title: Tyco Learn
+    description: Visit our Tyco Learning Portal for detailed video guides.
+    external-link: yes
+
+bulletins:
+  - title: RAID failure or issues with fast forward and rewind when using RAID storage
+    date: 7th July 2019
+    
+  - title: "Relocating VideoEdge’s victorWeb health database to save root disk space"
+    date: 20th December 2018
+    
+  - title: "VideoEdge 5.0: Increased CPU processing usage for analytic streams"
+    date: 18th September 2018
+
+  - title: How to enable/disable SNMP on NVR 4.8 or higher?
+    date: 20th December 2018
+
+release-notes:
+  - title: 5.3 Victor Release Notes
+    date: 7th July 2019
+    
+  - title: 5.2 Victor Release Notes
+    date: 20th December 2018
+    
+  - title: 5.1 Victor Release Notes
+    date: 18th September 2018
+
+  - title: 5.0 Victor Release Notes
+    date: 20th December 2017
+    
+---
+
+<!-- Cards  -->
+<section class="row mt-5">
+  {%- for item in page.cards -%}
+  <div class="col-12 col-md-4 d-flex my-3">
+    <a href="/{{ page.title | slugify }}/{{ item.url }}" class="card text-center w-100">
+      <div class="card-header pb-0">
+        <img src="/images/icons/{{ item.title | slugify | append: ".svg"}}" alt="{{ item.title }}">
+        <h3>
+          {{ item.title }} 
+          {%- if item.external-link -%}
+            <i class="far fa-external-link-alt text-muted font-size-sm ml-2"></i>
+          {%- endif -%}
+        </h3>
+      </div>
+      <div class="card-body">
+        <p class="text-muted">{{ item.description }}</p>
+      </div>
+    </a>
+  </div>
+  {%- endfor -%}
+</section>
+
+<section class="row mt-3 pb-5">
+  <div class="col-md-6 my-5">
+    {%- include heading.html title="Technical Advisory Bulletin" icon="exclamation-triangle" size="h3" link="true" link-text="View All" border="border-bottom"-%}
+    {%- for item in page.bulletins -%}
+      <article class="py-4 border-bottom article-preview">
+        <i class="far fa-exclamation-triangle float-left font-size-xl mr-3 mt-2 text-muted pl-2"></i>
+        <h4 class="font-weight-normal"><a href="">{{ item.title }}</a></h4>
+        <time class="text-muted text-uppercase">{{ item.date }}</time>
+      </article>
+    {%- endfor -%}
+  </div>
+
+  <div class="col-md-6 my-5">
+      {%- include heading.html title="Release Notes" icon="clipboard-list-check" size="h3" link="true" link-text="View All" border="border-bottom"-%}
+      {%- for item in page.release-notes -%}
+      <article class="py-4 border-bottom article-preview">
+        <i class="far fa-clipboard-list float-left font-size-xl mr-3 mt-2 text-muted pl-2"></i>
+        <h4 class="font-weight-normal"><a href="">{{ item.title }}</a></h4>
+        <time class="text-muted text-uppercase">{{ item.date }}</time>
+      </article>
+    {%- endfor -%}
+  </div>
+</section>
+
+
